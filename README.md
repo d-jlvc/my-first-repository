@@ -13,3 +13,6 @@ Exercises and tasks from the local academy I'm learning at.
 This is a test for my feature-update branch!
 So...
 Test...1...2...3...
+
+#--Feature update!
+Fixed immaginary issue! (Issue #1)
