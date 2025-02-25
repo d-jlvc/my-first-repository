@@ -8,3 +8,8 @@ long coding journey.
 
 #--Features:
 Exercises and tasks from the local academy I'm learning at.
+
+#--Feature update!
+This is a test for my feature-update branch!
+So...
+Test...1...2...3...
